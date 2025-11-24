@@ -41,7 +41,7 @@ function App() {
               <Route path="/Babyshower" element={<BabyShower />} />
               <Route path="/ContactUs" element={<ContactUs />} />
               <Route path="/Newborn" element={<NewbornList />} />
-              <Route path="/BoysUnderage" element={<BoysUnderAge />} />
+              <Route path="/BoysUnderage" element={<BoysUnderage />} />
               <Route path="/GirlsNewborn" element={<GirlsNewbornPage />} />
               <Route path="/GirlsunderAge" element={<GirlsUnderAge />} />
               <Route path="/SearchResults" element={<SearchResults />} />
