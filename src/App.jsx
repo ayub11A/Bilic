@@ -16,7 +16,7 @@ import Home from "./pages/Home";
 import BabyFurniture from "./pages/Babyfurniture";
 import BabyShower from "./pages/Babyshower";
 import ContactUs from "./pages/ContactUs";
-import BoysUnderAge from "./pages/BoysunderAge";
+import BoysUnderage from "./pages/BoysUnderage"
 import GirlsNewbornPage from "./pages/GirlsNewbornPage";
 import GirlsUnderAge from "./pages/GirlsunderAge";
 import Cars from "./pages/Cars";
