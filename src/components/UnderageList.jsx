@@ -17,7 +17,7 @@ function UnderageList() {
      
       <input
         type="text"
-        placeholder="Search newborn products..."
+        placeholder="Search under-age products..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="border p-2 rounded w-full mb-4  sm:p-6 md:p-4"

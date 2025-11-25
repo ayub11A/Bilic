@@ -17,7 +17,7 @@ function GirlsNewbornList() {
       {/* Search input */}
       <input
         type="text"
-        placeholder="Search newborn products..."
+        placeholder="Search Girls newborn products..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="border p-2 rounded w-full mb-4"

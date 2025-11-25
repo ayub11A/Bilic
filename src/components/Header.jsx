@@ -63,7 +63,7 @@ function Header() {
         {/* Cart & Mobile menu button */}
         <div className="flex items-center space-x-2">
           <Link to="/Cartpage" className="relative">
-            <FaCartArrowDown size={26} className="  text-green-400 hover:text-green-600 transition"/>
+            <FaCartArrowDown size={26} className="  text-green-400 md:-ml-[200px] hover:text-green-600 transition"/>
             {cartCount > 0 && (
               <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs font-bold rounded-full px-1.5 py-0.5">{cartCount}</span>
             )}
