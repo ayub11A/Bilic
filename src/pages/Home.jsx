@@ -71,9 +71,9 @@ function Home() {
           whileHover={{ scale: 1.1, boxShadow: "0 0 20px #34D399, 0 0 40px #10B981" }}
           whileTap={{ scale: 0.95 }}
           className="px-8 py-3 font-bold text-lg rounded-full bg-green-500 text-white border border-green-300 transition-all duration-300"
-          onClick={() => navigate("/newborn")}
+          onClick={() => navigate("/ContactUs")}
         >
-          Order Now
+          Contact Us
         </motion.button>
       </motion.div>
 
